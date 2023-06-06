@@ -1,4 +1,4 @@
-- 👋 Hi, I'm Sai Teja. I am a software engineering graduate with a passion for coding and problem-solving. I am proficient in Python, HTML, CSS, C, and have a solid foundation in data structures. As an enthusiastic learner, I am constantly striving to enhance my skills and stay up-to-date with industry trends. I thrive in a collaborative environment and enjoy working on projects with a team.
+- 👋 Hi, I'm Sai Teja. I am a software engineering graduate with a passion for coding and problem-solving. I am proficient in Python, C,   CSS and HTML and have a solid foundation in data structures. As an enthusiastic learner, I am constantly striving to enhance my skills and stay up-to-date with industry trends. I thrive in a collaborative environment and enjoy working on projects with a team.
 
 Throughout my academic journey, I consistently ranked at the top of my class in programming courses, which has equipped me with a strong understanding of computer programming principles. I have also completed intermediate courses in Python and frontend development, further expanding my knowledge and practical skills.
 
