@@ -2,7 +2,7 @@
 
 In addition to my proficiency in programming languages and web technologies, I have a comprehensive understanding of data analysis, particularly in the realm of Exploratory Data Analysis (EDA). This skill enables me to uncover insights and patterns within data, making it a valuable asset for projects involving data-driven decision-making.
 
-I've recently expanded my skill set to include Power BI and Tableau, two powerful tools for data visualization and business intelligence. This addition allows me to create compelling visualizations and reports, transforming raw data into actionable insights. This proficiency in both Power BI and Tableau enhances my capabilities in data-driven decision-making and analysis.
+I've recently expanded my skill set to include Power BI, powerful tool for data visualization and business intelligence. This addition allows me to create compelling visualizations and reports, transforming raw data into actionable insights. This proficiency in both Power BI and Tableau enhances my capabilities in data-driven decision-making and analysis.
 
 Throughout my academic journey, I consistently ranked at the top of my class in programming courses, showcasing a strong understanding of computer programming principles. I have completed intermediate courses in Python and frontend development, further enriching my knowledge and practical skills.
 
