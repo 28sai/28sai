@@ -49,20 +49,22 @@ I'm passionate about collaborating with like-minded individuals on projects that
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)
 ![Unstop](https://img.shields.io/badge/-Unstop-FF6F61?logoColor=white&style=flat)
 
-- **Python**
-- **Data Structures and Algorithms**
-- **SQL**
-- **Pandas and NumPy**
-- **Power BI**
-- **Data Analytics**
-- **Core Java**
-- **HTML**
-- **CSS**
+| Skill                      | Proficiency     |
+|----------------------------|-----------------|
+| Python                     | ![100%](https://progress-bar.dev/100) |
+| Data Structures and Algorithms | ![85%](https://progress-bar.dev/85)  |
+| SQL                        | ![90%](https://progress-bar.dev/90)   |
+| Pandas and NumPy           | ![100%](https://progress-bar.dev/100) |
+| Power BI                   | ![100%](https://progress-bar.dev/100) |
+| Data Analytics             | ![90%](https://progress-bar.dev/90)   |
+| Core Java                  | ![70%](https://progress-bar.dev/70)   |
+| HTML                       | ![80%](https://progress-bar.dev/80)   |
+| CSS                        | ![80%](https://progress-bar.dev/80)   |
 
 ## 📫 How to Reach Me
 
 ![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=flat) saitejathatikonda1@gmail.com
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat) https://www.linkedin.com/in/sai-teja-thatikonda-876188235
+![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat) [LinkedIn Profile](https://www.linkedin.com/in/sai-teja-thatikonda-876188235)
 
 <!---
 28sai/28sai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
