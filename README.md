@@ -54,15 +54,15 @@ I'm passionate about collaborating with like-minded individuals on projects that
 ## Skills
 | Skill                      | Proficiency     |
 |----------------------------|-----------------|
-| Python                     | ![100%](https://progress-bar.dev/100) |
-| Data Structures and Algorithms | ![85%](https://progress-bar.dev/85) |
-| SQL                        | ![90%](https://progress-bar.dev/90) |
-| Pandas and NumPy           | ![100%](https://progress-bar.dev/100) |
-| Power BI                   | ![100%](https://progress-bar.dev/100) |
-| Data Analytics             | ![90%](https://progress-bar.dev/90) |
-| Core Java                  | ![70%](https://progress-bar.dev/70) |
-| HTML                       | ![80%](https://progress-bar.dev/80) |
-| CSS                        | ![80%](https://progress-bar.dev/80) |
+| Python                     | ![Python](https://img.shields.io/badge/Progress-100%25-brightgreen) |
+| Data Structures and Algorithms | ![Data Structures](https://img.shields.io/badge/Progress-85%25-yellowgreen) |
+| SQL                        | ![SQL](https://img.shields.io/badge/Progress-90%25-green) |
+| Pandas and NumPy           | ![Pandas](https://img.shields.io/badge/Progress-100%25-brightgreen) |
+| Power BI                   | ![Power BI](https://img.shields.io/badge/Progress-100%25-brightgreen) |
+| Data Analytics             | ![Data Analytics](https://img.shields.io/badge/Progress-90%25-green) |
+| Core Java                  | ![Java](https://img.shields.io/badge/Progress-70%25-yellow) |
+| HTML                       | ![HTML](https://img.shields.io/badge/Progress-80%25-yellowgreen) |
+| CSS                        | ![CSS](https://img.shields.io/badge/Progress-80%25-yellowgreen) |
 
 ## 📫 How to Reach Me
 
