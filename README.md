@@ -49,17 +49,20 @@ I'm passionate about collaborating with like-minded individuals on projects that
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)
 ![Data Analytics](https://img.shields.io/badge/-Data%20Analytics-FF6F61?logoColor=white&style=flat)
 
+# My GitHub Profile
+
+## Skills
 | Skill                      | Proficiency     |
 |----------------------------|-----------------|
-| Python                     | ![](https://progress-bar.dev/100) |
-| Data Structures and Algorithms | ![](https://progress-bar.dev/85)  |
-| SQL                        | ![](https://progress-bar.dev/90)   |
-| Pandas and NumPy           | ![](https://progress-bar.dev/100) |
-| Power BI                   | ![](https://progress-bar.dev/100) |
-| Data Analytics             | ![](https://progress-bar.dev/90)   |
-| Core Java                  | ![](https://progress-bar.dev/70)   |
-| HTML                       | ![](https://progress-bar.dev/80)   |
-| CSS                        | ![](https://progress-bar.dev/80)   |
+| Python                     | ![100%](https://progress-bar.dev/100) |
+| Data Structures and Algorithms | ![85%](https://progress-bar.dev/85) |
+| SQL                        | ![90%](https://progress-bar.dev/90) |
+| Pandas and NumPy           | ![100%](https://progress-bar.dev/100) |
+| Power BI                   | ![100%](https://progress-bar.dev/100) |
+| Data Analytics             | ![90%](https://progress-bar.dev/90) |
+| Core Java                  | ![70%](https://progress-bar.dev/70) |
+| HTML                       | ![80%](https://progress-bar.dev/80) |
+| CSS                        | ![80%](https://progress-bar.dev/80) |
 
 ## 📫 How to Reach Me
 
